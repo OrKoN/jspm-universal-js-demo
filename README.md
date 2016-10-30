@@ -1,6 +1,6 @@
 # Universal JS using JSPM beta
 
-With state rehydration.
+With state rehydration
 
 ## Installation
 
@@ -14,4 +14,4 @@ jspm run server.js
 
 ## More info
 
-See this blog post.
+See this blog post
