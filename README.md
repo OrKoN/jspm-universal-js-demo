@@ -8,7 +8,7 @@ With state rehydration
 git clone
 cd jspm-universal-js-demo
 npm install jspm@beta -g
-jspm install
+jspm i
 jspm run server.js
 ```
 
