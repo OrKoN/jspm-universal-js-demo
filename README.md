@@ -14,4 +14,4 @@ jspm run server.js
 
 ## More info
 
-See [this blog post](https://60devs.com/dyi-universal-with-jspm-server-side-rendering-and-automatic-code-splitting.html)
+See [this blog post](https://60devs.com/universal-with-jspm-server-side-rendering-and-automatic-code-splitting.html)
